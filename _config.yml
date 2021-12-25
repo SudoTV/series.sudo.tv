@@ -1,10 +1,10 @@
-title: project.sudo.tv
+title: series.sudo.tv
 email: wm@mengw.io
-description: SudoTV Project
-url: https://project.sudo.tv
+description: SudoTV Series
+url: https://series.sudo.tv
 github_username: WMXPY
 theme: minima
-repository: SudoTV/project.sudo.tv
+repository: SudoTV/series.sudo.tv
 markdown: kramdown
 kramdown:
   input: GFM
