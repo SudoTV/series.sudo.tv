@@ -1,6 +1,6 @@
 {
-    "name": "bear.sudo.tv",
-    "short_name": "SudoTV Bear",
+    "name": "series.sudo.tv",
+    "short_name": "SudoTV Series",
     "icons": [
         {
             "src": "/$site/android-chrome-192x192.png",
