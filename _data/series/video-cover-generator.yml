@@ -9,3 +9,5 @@ localization:
   en-US:
     title: Video Cover Generator
     description: A React-based video cover generator
+episode:
+  latest: 1
