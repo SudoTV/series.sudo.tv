@@ -1,11 +1,13 @@
 ---
-title: Work In Progress
+title: SudoTV Series
 layout: default
 localization: en-US
 ---
 
-{% include banner/not-ready.html %}
+# SudoTV Series
 
-# Work In Progress
-
-Coming Soon
+{% include navigation/core-link.html
+    href="video-cover-generator"
+    title="Video Cover Generator"
+    description="Video Cover Generator"
+%}

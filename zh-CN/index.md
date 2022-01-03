@@ -1,11 +1,13 @@
 ---
-title: 准备中
+title: SudoTV 剧集
 layout: default
 localization: zh-CN
 ---
 
-{% include banner/not-ready.html %}
+# SudoTV 剧集
 
-# 准备中
-
-嘿嘿
+{% include navigation/core-link.html
+    href="video-cover-generator"
+    title="Video Cover Generator"
+    description="视频封面生成器"
+%}
