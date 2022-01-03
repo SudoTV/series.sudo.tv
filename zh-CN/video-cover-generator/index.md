@@ -1,9 +1,9 @@
 ---
 title: Video Cover Generator
 layout: default
-localization: en-US
+localization: zh-CN
 ---
 
-> SudoTV 原创剧集
-
-# Video Cover Generator
+{% include series/series-title.html
+    series=site.data.series.video-cover-generator
+%}

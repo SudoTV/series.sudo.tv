@@ -1,4 +1,5 @@
 reporitory-url: https://github.com/SudoTVSeries/Video-Cover-Generator
+original: true
 clone-url:
   https: https://github.com/SudoTVSeries/Video-Cover-Generator.git
   ssh: git@github.com:SudoTVSeries/Video-Cover-Generator.git
@@ -9,5 +10,12 @@ localization:
   en-US:
     title: Video Cover Generator
     description: A React-based video cover generator
-episode:
-  latest: 1
+latest-episode: 1
+episodes:
+  1:
+    video-url: https://example.com
+    localization:
+      zh-CN:
+        title: 在 React 中控制 Canvas 的绘制
+      en-US:
+        title: Drawing on Canvas in React

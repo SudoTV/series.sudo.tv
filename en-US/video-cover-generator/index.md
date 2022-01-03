@@ -4,6 +4,6 @@ layout: default
 localization: en-US
 ---
 
-> A SudoTV Original Series
-
-# Video Cover Generator
+{% include series/series-title.html
+    series=site.data.series.video-cover-generator
+%}
