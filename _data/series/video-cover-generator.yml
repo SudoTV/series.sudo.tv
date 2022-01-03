@@ -1,0 +1,11 @@
+reporitory-url: https://github.com/SudoTVSeries/Video-Cover-Generator
+clone-url:
+  https: https://github.com/SudoTVSeries/Video-Cover-Generator.git
+  ssh: git@github.com:SudoTVSeries/Video-Cover-Generator.git
+localization:
+  zh-CN:
+    title: 视频封面生成器
+    description: 用 React 开发的视频封面生成器
+  en-US:
+    title: Video Cover Generator
+    description: A React-based video cover generator

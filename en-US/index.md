@@ -6,8 +6,7 @@ localization: en-US
 
 # SudoTV Series
 
-{% include navigation/core-link.html
+{% include series/series-link.html
     href="video-cover-generator"
-    title="Video Cover Generator"
-    description="Video Cover Generator"
+    series=site.data.series.video-cover-generator
 %}
