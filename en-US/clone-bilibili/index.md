@@ -1,9 +1,9 @@
 ---
-title: Video Cover Generator
+title: Clone Bilibili
 layout: default
 localization: en-US
 ---
 
 {% include series/series-detail.html
-    series=site.data.series.video-cover-generator
+    series=site.data.series.clone-bilibili
 %}

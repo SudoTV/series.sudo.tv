@@ -1,9 +1,9 @@
 ---
-title: Video Cover Generator
+title: What To Play
 layout: default
 localization: en-US
 ---
 
 {% include series/series-detail.html
-    series=site.data.series.video-cover-generator
+    series=site.data.series.what-to-play
 %}
