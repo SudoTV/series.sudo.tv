@@ -1,6 +1,6 @@
 ---
 title: What To Play
-layout: default
+layout: base
 localization: en-US
 ---
 

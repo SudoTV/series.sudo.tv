@@ -1,6 +1,6 @@
 ---
 title: 山寨 Bilibili
-layout: default
+layout: base
 localization: zh-CN
 ---
 

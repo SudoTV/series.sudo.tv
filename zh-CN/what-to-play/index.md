@@ -1,6 +1,6 @@
 ---
 title: 玩什么助手
-layout: default
+layout: base
 localization: zh-CN
 ---
 

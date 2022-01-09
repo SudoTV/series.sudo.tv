@@ -1,6 +1,6 @@
 ---
 title: SudoTV 剧集
-layout: default
+layout: base
 localization: zh-CN
 ---
 

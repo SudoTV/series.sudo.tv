@@ -1,6 +1,6 @@
 ---
 title: 视频封面生成器
-layout: default
+layout: base
 localization: zh-CN
 ---
 

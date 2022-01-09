@@ -1,6 +1,6 @@
 ---
 title: Clone Bilibili
-layout: default
+layout: base
 localization: en-US
 ---
 

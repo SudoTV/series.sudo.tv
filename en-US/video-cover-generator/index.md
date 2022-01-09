@@ -1,6 +1,6 @@
 ---
 title: Video Cover Generator
-layout: default
+layout: base
 localization: en-US
 ---
 
