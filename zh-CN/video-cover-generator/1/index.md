@@ -4,8 +4,6 @@ layout: base
 localization: zh-CN
 ---
 
-{% include banner/not-ready.html %}
-
 {% include series/episode-detail.html
     series=site.data.series.video-cover-generator
     episode-id=1

@@ -18,6 +18,9 @@ latest-update-date: 2018-07-11
 episodes:
   1:
     release-date: 2018-07-11
+    git:
+      before-tag: before-episode-1
+      after-tag: after-episode-1
     video-url:
       zh-CN:
         url: https://www.bilibili.com/video/BV1os411n7Sf/

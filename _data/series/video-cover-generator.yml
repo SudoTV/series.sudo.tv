@@ -18,6 +18,9 @@ latest-update-date: 2021-01-05
 episodes:
   1:
     release-date: 2021-01-05
+    git:
+      before-tag: before-episode-1
+      after-tag: after-episode-1
     video-url:
       zh-CN:
         url: https://example.com/
