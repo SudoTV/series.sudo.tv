@@ -18,6 +18,9 @@ latest-update-date: 2020-07-19
 episodes:
   1:
     release-date: 2020-07-17
+    git:
+      before-tag: episode-0
+      after-tag: episode-1
     video-url:
       zh-CN:
         url: https://www.bilibili.com/video/BV195411h7bW/
@@ -31,6 +34,9 @@ episodes:
         title: Environment setup, input content, adjust style!
   2:
     release-date: 2020-07-19
+    git:
+      before-tag: episode-1
+      after-tag: episode-2
     video-url:
       zh-CN:
         url: https://www.bilibili.com/video/BV1NZ4y1g742/
