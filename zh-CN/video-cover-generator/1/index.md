@@ -1,7 +1,7 @@
 ---
-title: Episode 1 - Video Cover Generator
+title: 第1集 - 视频封面生成器
 layout: base
-localization: en-US
+localization: zh-CN
 ---
 
 {% include banner/not-ready.html %}
