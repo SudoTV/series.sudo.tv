@@ -4,7 +4,7 @@ layout: base
 localization: en-US
 ---
 
-# SudoTV Series
+# {{ page.title }}
 
 {% include series/series-link.html
     href="video-cover-generator"

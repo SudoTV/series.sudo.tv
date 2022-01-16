@@ -4,7 +4,7 @@ layout: base
 localization: zh-CN
 ---
 
-# SudoTV 剧集
+# {{ page.title }}
 
 {% include series/series-link.html
     href="video-cover-generator"
