@@ -6,7 +6,7 @@ localization: zh-CN
 
 {% capture practice-task %}
 
-Get
+TODO
 
 {% endcapture %}
 

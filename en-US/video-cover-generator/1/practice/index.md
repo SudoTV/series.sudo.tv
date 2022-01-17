@@ -6,7 +6,7 @@ localization: en-US
 
 {% capture practice-task %}
 
-Get
+TODO
 
 {% endcapture %}
 
