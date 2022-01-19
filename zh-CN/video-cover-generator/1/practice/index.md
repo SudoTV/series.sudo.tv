@@ -14,5 +14,4 @@ TODO
     series=site.data.series.video-cover-generator
     episode-id=1
     practice-task=practice-task
-    dependency0=site.data.topic.node-js
 %}
