@@ -32,3 +32,11 @@ localization: en-US
     title="How to Reprint Series"
     description="View your right and limitations to reprint SudoTV Series"
 %}
+
+{% include navigation/absolute-link.html
+    external=true
+    with-origin=true
+    href="https://sudo.tv/reprint/site"
+    title="How to Reprint Sites Content and Source Code"
+    description="View your right and limitations to reprint SudoTV Sites Content and Source Code"
+%}

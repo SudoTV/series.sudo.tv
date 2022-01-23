@@ -32,3 +32,11 @@ localization: zh-CN
     title="如何转载剧集"
     description="查看您转载 SudoTV 剧集的权利和限制"
 %}
+
+{% include navigation/absolute-link.html
+    external=true
+    with-origin=true
+    href="https://sudo.tv/reprint/site"
+    title="如何转载网站及其源代码"
+    description="查看您转载 SudoTV 网站及其源代码的权利和限制"
+%}
