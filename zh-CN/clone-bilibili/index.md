@@ -1,5 +1,5 @@
 ---
-title: 山寨 Bilibili
+title: 山寨 BiliBili
 layout: base
 localization: zh-CN
 ---

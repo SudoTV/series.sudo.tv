@@ -1,5 +1,5 @@
 ---
-title: Clone Bilibili
+title: Clone BiliBili
 layout: base
 localization: en-US
 ---

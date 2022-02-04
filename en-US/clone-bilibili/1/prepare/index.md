@@ -1,5 +1,5 @@
 ---
-title: Prepare Episode 1 - Clone Bilibili
+title: Prepare Episode 1 - Clone BiliBili
 layout: base
 localization: en-US
 ---
