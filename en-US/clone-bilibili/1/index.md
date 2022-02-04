@@ -1,5 +1,5 @@
 ---
-title: Episode 1 - Clone Bilibili
+title: Episode 1 - Clone BiliBili
 layout: base
 localization: en-US
 ---

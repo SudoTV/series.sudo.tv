@@ -1,5 +1,5 @@
 ---
-title: 第1集 - 山寨 Bilibili
+title: 第1集 - 山寨 BiliBili
 layout: base
 localization: zh-CN
 ---
