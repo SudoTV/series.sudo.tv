@@ -6,11 +6,13 @@
         "endcase",
         "forloop",
         "ifeq",
+        "markdownify",
         "minmax",
         "PCXPY",
         "pnpm",
         "sublicensable",
         "waivable",
+        "weibo",
         "WMXPY"
     ]
 }
